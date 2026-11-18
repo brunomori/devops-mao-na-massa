@@ -1,0 +1,14 @@
+# Vagrant local state
+.vagrant/
+
+# Editor and OS artifacts
+*.swp
+*.swo
+*.swn
+.DS_Store
+__MACOSX/
+
+# Local credentials
+.env
+*.pem
+*.key
